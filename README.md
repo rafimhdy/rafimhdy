@@ -1,8 +1,8 @@
 # 👋 Hello, World! I'm Muhammad Rafi Mahdy
 
-![Banner](https://api.placeholder.com/1200/300)
+![Banner]((https://freeimage.host/i/3x50xC7))
 
-## 💻 TKJ Graduate Turned Developer
+## 💻 Computer and Network Engineering Graduate
 
 Network technician by training. Alumni of SMKN 13 Bandung (Computer Networking) and currently studying English at Politeknik Negeri Bandung.
 
@@ -13,7 +13,7 @@ Network technician by training. Alumni of SMKN 13 Bandung (Computer Networking) 
 ## 🚀 Quick Facts
 
 - 🎓 Studying at **Politeknik Negeri Bandung**
-- 📚 Business Informatics student
+- 📚 English student
 - 🌐 Network background from **SMKN 13 Bandung (TKJ)**
 - 🔭 Working on expanding my coding skills
 - 🌱 Currently learning Javascript
