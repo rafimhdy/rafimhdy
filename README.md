@@ -5,7 +5,7 @@
 
 ## 💻 Computer and Network Engineering Graduate
 
-Network technician by training. Alumni of SMKN 13 Bandung (Computer Networking) and currently studying English at Politeknik Negeri Bandung.
+Network technician by training. Alumni of Vocational High School 13 Bandung (Computer and Network Engineering) and currently studying English at Politeknik Negeri Bandung.
 
 ```
 "Code is poetry written in logic"
@@ -15,7 +15,7 @@ Network technician by training. Alumni of SMKN 13 Bandung (Computer Networking) 
 
 - 🎓 Studying at **Politeknik Negeri Bandung**
 - 📚 English student
-- 🌐 Network background from **SMKN 13 Bandung (TKJ)**
+- 🌐 Network background from **Vocational High School 13 Bandung (Computer and Network Engineering)**
 - 🔭 Working on expanding my coding skills
 - 🌱 Currently learning Javascript
 
@@ -35,7 +35,7 @@ Network Knowledge + Coding Skills = Unlimited Possibilities
 Let's build something amazing together!
 
 - 📧 Email: muhammadrafimahdy@gmail.com
-- 💼 LinkedIn: Muhammad Rafi Mahdy
+- 💼 LinkedIn: [Muhammad Rafi Mahdy](https://www.linkedin.com/in/muhammad-rafi-mahdy)
 
 ---
 
