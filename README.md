@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Muhammad Rafi Mahdy
 
-![Banner]((https://freeimage.host/i/3x50xC7))
+![Banner]([https://github.com/rafimhdy/rafimhdy/blob/main/images/banner.png])
 
 ## 💻 Computer and Network Engineering Graduate
 
