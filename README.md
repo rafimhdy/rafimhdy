@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Muhammad Rafi Mahdy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/RepositoryName/main/images/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/rafimhdy/rafimhdy/main/images/banner.png" alt="Banner" />
 </p>
 
 
