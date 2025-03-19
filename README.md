@@ -40,7 +40,7 @@ Let's build something amazing together!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafimhdy&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <!-- Don't forget to replace placeholder information with your actual details! -->
