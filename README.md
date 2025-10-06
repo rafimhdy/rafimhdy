@@ -15,11 +15,11 @@ Network technician by training. Alumni of Vocational High School 13 Bandung (Com
 
 ## 🚀 Quick Facts
 
-- 🎓 Studying at **Politeknik Negeri Bandung**
+- 🎓 Graduated from **Politeknik Negeri Bandung**
 - 📚 English student
 - 🌐 Network background from **Vocational High School 13 Bandung (Computer and Network Engineering)**
 - 🔭 Working on expanding my coding skills
-- 🌱 Currently learning Javascript
+- 🌱 Currently learning MERN
 
 ## 🛠️ Tech Stack
 
